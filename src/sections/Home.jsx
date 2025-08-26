@@ -16,6 +16,7 @@ function Home() {
         src="/Photos/me.jpg"
         alt="Ghazi"
         className="w-72 md:w-96 h-72 md:h-96 rounded-full object-cover shadow-2xl"
+        loading = "lazy"
       />
     </section>
   );
