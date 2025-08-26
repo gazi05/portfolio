@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 
 ## 🚀 Live Demo
 
-You can view the live portfolio here: [[Your Render Link](https://portfolio-pdl6.onrender.com)]((https://portfolio-pdl6.onrender.com))
+You can view the live portfolio here: ((https://portfolio-pdl6.onrender.com))
 
 ---
 
