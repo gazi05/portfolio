@@ -3,7 +3,7 @@ import { BsLinkedin, BsInstagram, BsWhatsapp } from "react-icons/bs";
 
 function Contact() {
   return (
-    <section id="contact" className="mt-32 px-8 md:px-20 mb-32">
+    <section id="Contact" className="mt-32 px-8 md:px-20 mb-32">
       {/* Section Title */}
       <h1 className="text-5xl md:text-7xl text-white font-bold mb-12 text-center md:text-left">
         Reach Out to Me

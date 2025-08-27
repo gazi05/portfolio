@@ -1,12 +1,14 @@
 import React from "react";
-import Home from './sections/Home'
-import About from "./sections/About";
-import Projects from "./sections/Projects";
+import Home from './components/Home'
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Nav from "./components/Nav";
 
-import Contact from "./sections/Contact";
+import Contact from "./components/Contact";
 function App() {
   return (
      <div className="min-h-screen w-screen bg-black text-white overflow-x-hidden scroll-smooth">
+      <Nav/>
       <Home/>
       <About />
       <Projects />

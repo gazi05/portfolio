@@ -21,7 +21,7 @@ function Projects() {
   ];
 
   return (
-    <section className="h-auto ml-4 md:ml-20 py-8 px-4 md:px-0">
+    <section className="h-auto ml-4 md:ml-20 py-8 px-4 md:px-0" id="Projects">
       <h1 className="text-white text-5xl md:text-7xl mb-12 md:mb-24 text-center md:text-left">
         My Projects
       </h1>
